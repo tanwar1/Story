@@ -1,0 +1,13 @@
+learning git 
+
+starting plate
+git init
+
+to know status
+git status
+
+
+to commit change
+
+git commit -m "Completed Chapter 3"
+
